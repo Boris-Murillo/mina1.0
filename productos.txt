@@ -1,0 +1,53 @@
+﻿galleta festival;;1000.0;mecato
+papas margarita;;1200.0;mecato
+chicharrones;;1200.0;mecato
+club social;;700.0;mecato
+natuchips;;1500.0;mecato
+bianchi;;800.0;mecato
+chocoso;;1500.0;mecato
+mini chocorramo;;500.0;mecato
+browny;;700.0;mecato
+maxicoco;;1200.0;mecato
+hojaldre;;300.0;mecato
+palmitas;;200.0;mecato
+minichips;;1000.0;mecato
+De Todito;;2000.0;mecato
+trocipollo;;500.0;mecato
+manimoto;;1200.0;mecato
+mamut;;300.0;mecato
+gol;;1200.0;mecato
+ponque gala;;1700.0;mecato
+waffer nucita;;400.0;mecato
+nucita;;500.0;mecato
+bom bom bum;;400.0;mecato
+maxi personal;;1500.0;mecato
+1/5 pepsi;;800.0;mecato
+1/4 pepsi;;1000.0;mecato
+1/3 pepsi;;1350.0;mecato
+1/2 pepsi;;2000.0;mecato
+pepsi;;4000.0;mecato
+agua;;1200.0;mecato
+hit 1,5 lts;;4000.0;mecato
+jugo hit personal;;2200.0;mecato
+pony malta;;3000.0;mecato
+squash;;2000.0;mecato
+squash pequeño;;1000.0;mecato
+speed max;;1500.0;mecato
+maxi manzana 1,7;;3000.0;mecato
+1/2 maxi;;1500.0;mecato
+mechera;;1000.0;mecato
+Denver;;3500.0;mecato
+panela grande;;2200.0;aseo
+hielo;;300.0;aseo
+bocadillo;;400.0;aseo
+prestobarba;;2900.0;aseo
+fab;;7000.0;aseo
+crema fortident;;2500.0;aseo
+papel duo;;1600.0;aseo
+jabón palmolive;;2500.0;aseo
+cepillo dientes;;2500.0;aseo
+desodorante;;1000.0;aseo
+barra puro grande;;2500.0;aseo
+pan;;300.0;aseo
+frutiño;;600.0;aseo
+vikingo;;500.0;aseo
